@@ -1,4 +1,8 @@
 # pblogmanager
+## 项目介绍
+此项目是pblog项目的管理界面
+项目预览链接
+http://39.105.58.189:8080/login
 
 ## Project setup
 ```
