@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-width: 562px) {
+  .el-pagination__jump {
+    display: none !important;
+  }
+  .el-pagination__sizes {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 890px) {
+  .el-pagination__jump {
+    display: none !important;
+  }
+}
