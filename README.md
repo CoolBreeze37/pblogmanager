@@ -1,6 +1,6 @@
 # pblogmanager
 ## 项目介绍
-此项目是pblog项目的管理界面
+此项目是pblog项目的管理界面，通过vue.js和element-ui开发。 所用api通过我的另一个项目pblogapi来提供 pblogapi链接http://39.105.58.189/index.html
 项目预览链接
 http://39.105.58.189:8080/login
 
